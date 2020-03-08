@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>More Carpet Colors</name>
+  <author>Chromatk</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+	<packageId>chromatk.morecarpetcolors</packageId>
+  <description>
+<![CDATA[
+<b>More Carpet Colors</b>
+This pack adds more carpet colors to the game.
+]]>
+  </description>
+</ModMetaData>
